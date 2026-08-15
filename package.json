@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-judge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin value auditor for DeepSeek Harness: judge a plugin before install and audit installed ones — heuristic scan + LLM judge, with model-switch re-audit reminders. · DSH 插件价值裁判：装前判断值不值得装，装后审计是否还该留，模型切换时提醒复核。",
   "type": "module",
   "main": "lib/index.js",
@@ -46,7 +46,8 @@
   "files": [
     "lib",
     "client",
-    "cordis.patch.yml"
+    "cordis.patch.yml",
+    "README.zh.md"
   ],
   "peerDependencies": {
     "@deepseek-ai/cordis": "^4.0.1"

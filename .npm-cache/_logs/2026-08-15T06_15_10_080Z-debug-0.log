@@ -1,0 +1,39 @@
+0 verbose cli /Users/dingpengxu1/.nvm/versions/node/v22.20.0/bin/node /Users/dingpengxu1/.nvm/versions/node/v22.20.0/bin/npm
+1 info using npm@10.9.3
+2 info using node@v22.20.0
+3 silly config load:file:/Users/dingpengxu1/.nvm/versions/node/v22.20.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/dingpengxu1/deepseekClaudeCodeProject/sideProject/createPlugin/judgePlugin/.npmrc
+5 silly config load:file:/Users/dingpengxu1/.npmrc
+6 silly config load:file:/Users/dingpengxu1/.nvm/versions/node/v22.20.0/etc/npmrc
+7 verbose title npm pack
+8 verbose argv "pack" "--dry-run"
+9 verbose logfile logs-max:10 dir:/Users/dingpengxu1/deepseekClaudeCodeProject/sideProject/createPlugin/judgePlugin/.npm-cache/_logs/2026-08-15T06_15_10_080Z-
+10 verbose logfile /Users/dingpengxu1/deepseekClaudeCodeProject/sideProject/createPlugin/judgePlugin/.npm-cache/_logs/2026-08-15T06_15_10_080Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 notice
+14 notice 📦  dsh-plugin-judge@0.1.1
+15 notice Tarball Contents
+16 notice 1.1kB LICENSE
+16 notice 5.7kB README.md
+16 notice 5.0kB README.zh.md
+16 notice 11.9kB client/client.js
+16 notice 134B cordis.patch.yml
+16 notice 27.4kB lib/index.js
+16 notice 1.5kB package.json
+17 notice Tarball Details
+18 notice name: dsh-plugin-judge
+19 notice version: 0.1.1
+20 notice filename: dsh-plugin-judge-0.1.1.tgz
+21 notice package size: 18.0 kB
+22 notice unpacked size: 52.8 kB
+23 notice shasum: 7b52282f8a100f7461bf1688eb6a2582f99c7d85
+24 notice integrity: sha512-BYFkymuH+VlqL[...]+xbGf5E7zXOrw==
+25 notice total files: 7
+26 notice
+27 verbose cwd /Users/dingpengxu1/deepseekClaudeCodeProject/sideProject/createPlugin/judgePlugin
+28 verbose os Darwin 25.5.0
+29 verbose node v22.20.0
+30 verbose npm  v10.9.3
+31 verbose exit 0
+32 info ok
